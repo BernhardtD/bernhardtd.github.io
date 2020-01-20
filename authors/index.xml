@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Tech Vanguard</title>
+    <link>https://bernhardtd.github.io/authors/</link>
+    <description>Recent content in Authors on Tech Vanguard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 12:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://bernhardtd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://bernhardtd.github.io/authors/daniel-bernhardt/</link>
+      <pubDate>Mon, 20 Jan 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://bernhardtd.github.io/authors/daniel-bernhardt/</guid>
+      <description>I&#39;m a full stack developer with a passion for innovative technology.</description>
+    </item>
+    
+  </channel>
+</rss>

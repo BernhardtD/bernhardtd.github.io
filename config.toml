@@ -9,6 +9,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 # googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
+publishDir = "./"
 
 [menu]
   [[menu.main]]
