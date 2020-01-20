@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Vanguard</title>
+    <link>https://bernhardtd.github.io/</link>
+    <description>Recent content on Tech Vanguard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Fri, 10 Jan 2020 14:55:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://bernhardtd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual Power Grid #1</title>
+      <link>https://bernhardtd.github.io/post/virtual-power-grid-1/</link>
+      <pubDate>Fri, 10 Jan 2020 14:55:10 +0100</pubDate>
+      
+      <guid>https://bernhardtd.github.io/post/virtual-power-grid-1/</guid>
+      <description>Ein virtuelles Stromnetz (engl. virtual power grid, VPG) kann ein Puzzle-Teil sein, um unseren Energiebedarf zunehmend aus regenerativen Energiequellen zu decken.
+Der Gedanke des virtuellen Stromnetzes geht auf den des VPN (virtual private network) zurück. Dabei wird eine bestehende Netzwerkverbindung genutzt, um eine Verbindung zwischen mehreren Netzwerken herzustellen ohne eigene physische Verbindung. Übertragen auf ein Stromnetz heißt das, ich stelle eine virtuelle Verbindung zwischen mehreren Standorten her, um so z.B. Strom aus einer PV-Anlage von einem Standort für Verbraucher eines ganz anderen Standortes bereitstellen zu können.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bernhardtd.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bernhardtd.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
